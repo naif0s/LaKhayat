@@ -1,8 +1,7 @@
 
 # Projet LaKhayat
 
-A brief description of what this project does and who it's for
-
+Site réprésentant une billeterie du rappeur Laylow
 
 ## Authors
 
